@@ -16,4 +16,3 @@ function generate() {
 // if(numbers[i] == number) return true;
 // }
 // return false;
-// 
